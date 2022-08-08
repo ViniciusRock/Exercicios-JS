@@ -1,5 +1,6 @@
 # ExercíciosBásicos de Javascript
 Aula de Javascript - Téc. Desenvolvimento de Sistemas
+
 1.Crie um elemento DIV com ID. Use a propriedade element.style para estilizar o elemento 
 de marcação com largura, altura, borda, cor de fundo, tipo de fonte, cor da fonte e padding.
 A estilização deve ser aplicada após o carregamento completo da página.
